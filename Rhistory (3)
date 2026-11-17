@@ -1,0 +1,7 @@
+library(shiny); runApp('appi.R')
+install.packages(c("shiny", "ggplot2"))
+library(shiny); runApp('appi.R')
+runApp('appi.R')
+setwd("C:/Users/student/Documents/app")
+source("appi.R", encoding = "UTF-8")
+runApp('appi.R')
